@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-goodreads"
+  "defaultProject": "ng-goodreads",
+  "cli": {
+    "analytics": "b50c138e-58e8-4a10-9a98-14a9c55ca85d"
+  }
 }
